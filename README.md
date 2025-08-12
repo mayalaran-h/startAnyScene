@@ -1,7 +1,7 @@
 # startAnyScene
 
 This mod adds a new icon, named X FILE, to HC's computer. Clicking on it allows the player to browse and play any main questline scene or character quest scene without having to unlock it first.
-![Demonstration image showing the desktop of HC's computer with the new X FILE icon.](demo-image.png)
+![Demonstration image showing the desktop of HC's computer with the new X FILE icon.](./demo-image.png)
 
 ## Requirements
 This mod comes packaged with the [Godot Mod Loader](https://wiki.godotmodding.com/) which is needed for the mod to function. 

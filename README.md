@@ -1,6 +1,6 @@
 # startAnyScene
 
-This mod adds a new icon, named X FILE, to HC's computer. Clicking on it allows the player to browse and play any main questline scene or character quest scene without having to unlock it first.
+This mod adds a new icon, named X FILE, to HC's computer. Clicking on it allows the player to browse and play any main questline scene or character quest scene without having to unlock it first. <br />
 ![Demonstration image showing the desktop of HC's computer with the new X FILE icon.](https://raw.githubusercontent.com/mayalaran-h/startAnyScene/refs/heads/main/demo-image.PNG)
 
 ## Requirements
